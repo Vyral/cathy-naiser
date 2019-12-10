@@ -25,7 +25,7 @@ client:
   phone2:
   phone2_type:
   email: clients@mysanantoniomove.com
-  url: CNaiser.KW.com
+  url: https://CNaiser.KW.com
 
 CTAs:
   first_CTA_text: Home Valuation
