@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Best Time of Year for San Antonio Real Estate?
-date: 2020-01-16 21:05:45
+date: 2020-01-16 21:05:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -22,11 +22,11 @@ youtube_code: i6Gth4oa6zY
 
 People often ask me, “What’s the best time of year to buy or sell a home in San Antonio?”&nbsp;
 
-Since our market is pretty steady, **I find that the ratio between the houses that are on the market and the houses buyers are buying to be fairly consistent throughout the year.**
+Since our market is pretty steady, **I find that the ratio between the houses that are on the market and the houses being purchased to be fairly consistent throughout the year.**
 
 In the fall and winter, there are fewer houses on the market and fewer buyers buying. This means buyers and sellers have less competition. In the spring and summer, there are more houses on the market and more competition.&nbsp;
 
-**No matter what time of year that you decide to list, you’ll do the best when you have a great strategy.** Right now, interest rates are still low and I have ways to save you money on closing costs if you’re a buyer. For sellers, I’m seeing buyers become a little pickier. Updates homes are doing very well, while those that aren’t should use a different selling strategy.
+**No matter what time of year that you decide to list, you’ll do the best when you have a great strategy.** Right now, interest rates are still low and I have ways to save you money on closing costs if you’re a buyer. For sellers, I’m seeing buyers become a little pickier. Updated homes are doing very well, while those that aren’t should use a different selling strategy.
 
 {% include pullquote.html %}
 
