@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How iBuyers Work & Whether They’re Right for You
-date: 2020-01-28 17:51:02
+date: 2020-01-28 17:51:00
 tags:
 excerpt: 'If you’re considering selling to an iBuyer, here’s what you should know.'
 enclosure:
