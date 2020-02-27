@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Best Time of Year for San Antonio Real Estate?
-date: 2020-02-25 20:16:06
+date: 2020-02-25 20:16:00
 tags:
 excerpt: >-
   Is there a “best time” to buy or sell a home in San Antonio? Here’s my expert
@@ -20,14 +20,16 @@ youtube_code: Yi4RCXYX8KI
 
 People often ask me, “What’s the best time of year to buy or sell a home in San Antonio?”&nbsp;
 
-Since our market is pretty steady, **I find that the ratio between the houses that are on the market and the houses buyers are buying to be fairly consistent throughout the year.**
+Since our market is pretty steady,&nbsp;**I find that the ratio between houses on the market and houses being purchased to be fairly consistent throughout the year.**
+
+{% include pullquote.html %}
 
 In the fall and winter, there are fewer houses on the market and fewer buyers buying. This means buyers and sellers have less competition. In the spring and summer, there are more houses on the market and more competition.&nbsp;
 
-**No matter what time of year that you decide to list, you’ll do the best when you have a great strategy.** Right now, interest rates are still low and I have ways to save you money on closing costs if you’re a buyer. For sellers, I’m seeing buyers become a little pickier. Updates homes are doing very well, while those that aren’t should use a different selling strategy.
+**No matter what time of year that you decide to list, you’ll do the best when you have a great strategy.** Right now, interest rates are still low and I have ways to save you money on closing costs if you’re a buyer. For sellers, I’m seeing buyers become a little pickier. Updated homes are doing very well, while those that aren’t should use a different selling strategy.
 
-Meeting with someone like myself early on in the process who can let you know exactly what to do to prepare it for the market can give you the greatest chance of success. **Remember that I can also bring you an instant cash offer if you want to sell without showings and with a flexible closing date.**
+Meeting with a real estate agent like myself early on in the process who can let you know exactly what to do to prepare it for the market can give you the greatest chance of success. **Remember that I can also provide an instant cash offer if you want to sell without showings and with a flexible closing date.**
 
-Ultimately, the best time to buy or sell is when the time is right for you. If any time in 2020 is the right time for you, feel free to reach out to me via phone or email today. I look forward to hearing from you.
+Ultimately, the best time to buy or sell is when the time is right for you. If sometime in 2020 is the right time for you, feel free to reach out to me via phone or email today. I look forward to hearing from you.
 
-{% include pullquote.html %}
+&nbsp;
