@@ -28,7 +28,7 @@ In the fall and winter, there are fewer houses on the market and fewer buyers bu
 
 **No matter what time of year that you decide to list or buy, you will do the best when you have a great strategy.**&nbsp;Right now, interest rates are still low and I have ways to save you money on closing costs– if you’re a buyer. For sellers, I’m seeing buyers become a little more picky. Updated homes are doing very well, while those that aren’t should have a different selling strategy.
 
-Meeting with a great real estate agent, like me, can let you know exactly what to do to prepare your home for the market.&nbsp; Meeting with me will give you the greatest chance of success.&nbsp;**Remember that I can also provide an instant cash offer. This can help if you want to sell without showings and you want a flexible closing date.**
+Meeting with a great real estate agent, like me, can let you know exactly what to do to prepare your home for the market.&nbsp;**Remember that I can also provide an instant cash offer. This can help if you want to sell without showings and you want a flexible closing date.**
 
 Ultimately, the best time to buy or sell is when the time is right for you. If anytime in 2020 is the right time for you, feel free to reach out to me via phone or email today. I look forward to hearing from you.&nbsp;
 
