@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Our Market Is Not Like the One We Say Back in 2008
-date: 2020-04-01 17:52:55
+title: Why Our Market Is Not Like the One We Saw Back in 2008
+date: 2020-04-01 17:52:00
 tags:
 excerpt: Our current market isn’t like the one we saw in 2008. Here’s why.
 enclosure:
