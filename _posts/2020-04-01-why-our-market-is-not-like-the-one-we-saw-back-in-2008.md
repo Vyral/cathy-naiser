@@ -38,5 +38,3 @@ Even stranger, in the 24 hours prior to this video, there were 364 new listings 
 The point is, people are still buying and selling. We’ve attended meetings, coordinated home equity assessments, and held home buying appointments all on virtual platforms. If you want to buy now, we can grant you a virtual showing and spotlight every inch of a property. We also offer 24-hour open houses featuring detailed walk-throughs. There’s no sense in waiting a few weeks—the market is taking off now.&nbsp;
 
 If you have questions about this or any other real estate topic, don’t hesitate to reach out to me. I’m here to help, and I hope you and your family are staying safe during this time.&nbsp;
-
-{% include pullquote.html %}
