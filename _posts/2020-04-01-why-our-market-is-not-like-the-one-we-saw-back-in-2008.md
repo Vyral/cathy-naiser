@@ -19,7 +19,7 @@ Considering everything that’s happening with the COVID-19 pandemic, now is an 
 
 **1\. Mortgage standards aren’t the same.** In 2008, mortgage standards were very loose. Anyone could get a loan. You could have bad credit, no one would approve your income, and appraisals were super high. After the market crashed, the lesson was learned, and mortgage standards were tightened. Now you need good credit and solid, provable income, and appraisals aren’t coming in high anymore.&nbsp;
 
-**2\. Prices are in control.** Housing prices have been rising steadily in San Antonio and across the nation, but not at the rate that they were in 2008. Back then, prices were skyrocketing and investors from California were swooping in and buying entire neighborhoods sight unseen because they could get them cheaply (even though they were so expensive for regular consumers).
+**2\. Prices are in control.** Housing prices have been rising steadily in San Antonio and across the nation but not at the rate that they were in 2008. Back then, prices were skyrocketing and investors from California were swooping in and buying entire neighborhoods sight unseen because they could get them cheaply (even though they were so expensive for regular consumers).
 
 **3\. 2008 had too much inventory.** In other words, there were too many houses on the market, but that’s not the case today. We’ve been pretty consistent inventory-wise. Each month we may have about 7,500 houses for sale, but only about 2,500 to 3,500 are selling, and those numbers stay the same even as we enter April 2020.&nbsp;
 
