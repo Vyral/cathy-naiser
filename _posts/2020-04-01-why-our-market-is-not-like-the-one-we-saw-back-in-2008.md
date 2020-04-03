@@ -17,7 +17,7 @@ youtube_code: WXXSZ0O-f9c
 
 Considering everything that’s happening with the COVID-19 pandemic, now is an uncertain time in the world, but the real estate market is moving ahead. To be clear, this market is not like the one we saw back in 2008 that led to the Great Recession, and there are several reasons why.&nbsp;
 
-**1\. Mortgage standards aren’t the same.** In 2008, mortgage standards were very loose. Anyone could get a loan. You could have bad credit, no one would approve your income, and appraisals were super high. After the market crashed, the lesson was learned, and mortgage standards were tightened. Now you need good credit and solid, provable income, and appraisals aren’t coming in high anymore.&nbsp;
+**1\. Mortgage standards aren’t the same.** In 2008, mortgage standards were very loose. Anyone could get a loan. You could have bad credit, you did not have to prove your income and appraisals were super high. After the market crashed, the lesson was learned, and mortgage standards were tightened. Now you need good credit and solid, provable income, and appraisals aren’t coming in high anymore.&nbsp;
 
 **2\. Prices are in control.** Housing prices have been rising steadily in San Antonio and across the nation but not at the rate that they were in 2008. Back then, prices were skyrocketing and investors from California were swooping in and buying entire neighborhoods sight unseen because they could get them cheaply (even though they were so expensive for regular consumers).
 
