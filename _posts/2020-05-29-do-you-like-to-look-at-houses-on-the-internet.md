@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: How Can the New KW App Make Your Home Purchase Easier?'
-date: 2020-05-29 14:35:26
+title: Do You Like to Look at Houses on the Internet?
+date: 2020-05-29 14:35:00
 tags:
 excerpt: The brand-new Keller Williams app has everything homebuyers need.
 enclosure:
