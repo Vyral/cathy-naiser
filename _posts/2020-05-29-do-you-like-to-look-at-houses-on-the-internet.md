@@ -17,7 +17,11 @@ youtube_code: Ihy3oUvvdqk
 
 If you like to spend time looking online at the latest real estate statistics and browsing homes for sale, then you’re going to love this new app.
 
-If you haven’t heard yet, the new Keller Williams app just launched and it’s fantastic. **To download it, all you have to do is text “KW15TB9I” to 87778.** You’ll get a link sent to you and you can download the app right on your phone by clicking the aforementioned link.
+If you haven’t heard yet, the new Keller Williams app just launched and it’s fantastic.&nbsp;
+
+> **To download it, all you have to do is text “KW15TB9I” to 87778.**
+
+You’ll get a link sent to you and you can download the app right on your phone by clicking the aforementioned link.
 
 {% include pullquote.html %}
 
