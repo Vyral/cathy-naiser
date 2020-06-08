@@ -19,7 +19,7 @@ If you like to spend time looking online at the latest real estate statistics an
 
 If you haven’t heard yet, the new Keller Williams app just launched and it’s fantastic.&nbsp;
 
-**To download it, all you have to do is text “KW15TB9I” to 87778.**
+**To download it, all you have to do is text “KW15TB9I” (the last digit is a capital I and not a \#1) to 87778.**
 
 You’ll get a link sent to you and you can download the app right on your phone by clicking the aforementioned link.
 
