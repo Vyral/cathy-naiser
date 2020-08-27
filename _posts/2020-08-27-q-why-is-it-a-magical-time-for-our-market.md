@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Is It a “Magical” Time for Our Market?'
-date:
+date: 2020-08-27 21:40:59
 tags:
 excerpt: We’re ready to help homeowners take full advantage of market conditions.
 enclosure:
