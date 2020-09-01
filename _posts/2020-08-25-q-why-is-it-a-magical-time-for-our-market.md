@@ -17,7 +17,7 @@ youtube_code: 4ojl2_p-d1A
 
 It’s a magical time in the San Antonio real estate market. First, let me say that I hope you are all safe and healthy.&nbsp;
 
-In any real estate market, homes can sell very quickly if marketed right and priced correctly. **In the market we’re in right now, this is even more true due to a lack of inventory.&nbsp;**
+In any real estate market, homes can sell very quickly if marketed well and priced correctly. **In the market we’re in right now, this is even more true due to a lack of inventory.&nbsp;**
 
 {% include pullquote.html %}
 
