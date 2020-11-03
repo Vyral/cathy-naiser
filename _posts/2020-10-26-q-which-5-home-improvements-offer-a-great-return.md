@@ -3,6 +3,7 @@ layout: post
 title: 'Q: Which 5 Home Improvements Offer a Great Return?'
 date: 2020-10-26 19:00:00
 tags:
+  - Home Seller Tips
 excerpt: Here are the five home improvements that offer the best bang for your buck.
 enclosure:
 pullquote: >-
