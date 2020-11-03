@@ -3,6 +3,7 @@ layout: post
 title: 'Q: Why Is It a “Magical” Time for Our Market?'
 date: 2020-08-25 21:46:00
 tags:
+  - Market Update
 excerpt: We’re ready to help homeowners take full advantage of market conditions.
 enclosure:
 pullquote: We’re helping clients sell in an average of just 14 days.
