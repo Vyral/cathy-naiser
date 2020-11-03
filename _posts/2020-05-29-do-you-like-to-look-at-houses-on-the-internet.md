@@ -3,6 +3,7 @@ layout: post
 title: Do You Like to Look at Houses on the Internet?
 date: 2020-05-29 14:35:00
 tags:
+  - Home Buyer Tips
 excerpt: The brand-new Keller Williams app has everything homebuyers need.
 enclosure:
 pullquote: 'We don’t sell insurance, but our app allows you to compare the best quotes.'
