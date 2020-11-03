@@ -3,6 +3,7 @@ layout: post
 title: Have You Been Getting Cash Offers for Your Home in the Mail?
 date: 2020-01-28 17:51:00
 tags:
+  - Home Seller Tips
 excerpt: 'If you’re considering selling to an iBuyer, here’s what you should know.'
 enclosure:
 pullquote:
