@@ -3,6 +3,9 @@ layout: post
 title: What Is the Best Time of Year for San Antonio Real Estate?
 date: 2020-02-25 20:16:00
 tags:
+  - Market Update
+  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: >-
   Is there a “best time” to buy or sell a home in San Antonio? Here’s my expert
   opinion.
