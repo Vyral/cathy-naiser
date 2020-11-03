@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Win Amazing Prizes From Our 4th of July Giveaway
-date: 2020-06-24 21:06:19
+date: 2020-06-24 21:06:00
 tags:
+  - Community
 excerpt: >-
   This July, we’re giving away some amazing prizes that will come in handy for
   the Fourth of July holiday.
