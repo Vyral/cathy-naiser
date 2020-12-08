@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can Buyers Win a Bidding War?
-date: 2020-11-13 14:16:00
+date: 2020-11-12 14:16:00
 tags:
 excerpt: Use these seven tips to help you win the home during a bidding war.
 enclosure:
