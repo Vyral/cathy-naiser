@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do Real Estate Deals Fall Apart?
-date: 2020-11-13 14:16:15
+date: 2020-11-13 14:16:00
 tags:
 excerpt: Here’s how we help prevent our clients’ deals from falling apart.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: fI74dLBGorI
+youtube_code: MqokRyFbqAg
 ---
 
 {% include youtube.html %}
