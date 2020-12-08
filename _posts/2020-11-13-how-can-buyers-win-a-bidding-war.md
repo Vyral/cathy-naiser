@@ -17,7 +17,7 @@ youtube_code: b2gWJ7WesOU
 
 {% include youtube.html %}
 
-I’ve been hearing of buyers and sellers who don’t even want to enter the market because they’re afraid of the competition that comes with the frequent bidding wars we see in our market. Today I’m here to say that you don’t have to be afraid of bidding wars, and there are ways you can win them. Occasionally one of our buyers will lose a bidding war to a cash buyer, but most of the time, they come out on top. Here are my tips to help you find success in our competitive market:
+I’ve been hearing of buyers and sellers who don’t even want to enter the market because they’re afraid of the competition that comes with the frequent bidding wars we see in our market. Today I’m hOIˆ)<br>ere to say that you don’t have to be afraid of bidding wars, and there are ways you can win them. Occasionally one of our buyers will lose a bidding war to a cash buyer, but most of the time, they come out on top. Here are my tips to help you find success in our competitive market:
 
 **1\. Work with an experienced agent with a proven strategy.**
 
