@@ -21,7 +21,7 @@ youtube_code: jfq_EKZ-nDw
 
 For years, we’ve helped people in Bexar and the surrounding counties sell their homes and buy other homes. That’s a challenge for many because they need to sell their home first, but can’t seem to buy a home first. Now, however, we have our Buy Before You Sell plan that our sellers love.
 
-In the past, **we used to help people sell and buy using contingent offers, meaning they would go find a house before their own sold** and place an offer on it that was contingent on the sale of their current home. That way, if the buyer’s own home didn’t sell, they would be able to walk out on their offer to the seller.
+In the past, **we used to help people sell and buy using contingent offers, meaning they would go find a house before their own sold** and place an offer on it that was contingent on the sale of their current home. That's a challenge for many because they need to sell their current home before buying a new one.
 
 {% include pullquote.html %}
 
