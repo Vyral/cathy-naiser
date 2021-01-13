@@ -15,7 +15,7 @@ youtube_code: jfq_EKZ-nDw
 
 {% include youtube.html %}
 
-There’s a way for you to buy a new home before you sell.
+<center>There’s a way for you to buy a new home before you sell.</center>
 
 For years, we’ve helped people in Bear and the surrounding counties sell their homes and buy other homes. That’s a challenge for many because they need to sell their home first, but can’t seem to buy a home first. Now, however, we have our Buy Before You Sell plan that our sellers love.
 
