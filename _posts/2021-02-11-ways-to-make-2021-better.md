@@ -15,7 +15,7 @@ youtube_code: '-CZyTViOchQ'
 
 {% include youtube.html %}
 
-We want to help you make 2021 better than 2020. Here’s how we’re doing it.
+<center><em>We want to help you make 2021 better than 2020. Here’s how we’re doing it.</em></center>
 
 Do you want 2021 to be way better than 2020? We can help make that happen, whether or not you’re interested in buying or selling a home. We decided to do a few unique things for our friends and clients that we’ve never done before. This year, we’ll be hosting four different webinars to start, and you can find out all the information about them by visiting [CathysWebinars.com](https://cathyswebinars.com/).&nbsp;
 
