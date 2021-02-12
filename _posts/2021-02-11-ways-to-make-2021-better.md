@@ -23,13 +23,13 @@ Do you want 2021 to be way better than 2020? We can help make that happen, wheth
 
 Simply follow the links below to register for the webinars that appeal to you. Here’s a quick rundown of each one:
 
-[**Balance and Fun in 2021.**](http://balanceandfun.com) We feel balance and fun are getting left by the wayside during the pandemic, so having it in our lives right now means you need to be intentional about it. We’ll be using the book “The 12-Week Year” and a planning tool to show you strategies to ensure you get balance and fun back into your life.
+[**Balance and Fun in 2021.**](http://balanceandfun.com){: target="_blank" rel="noopener"} We feel balance and fun are getting left by the wayside during the pandemic, so having it in our lives right now means you need to be intentional about it. We’ll be using the book “The 12-Week Year” and a planning tool to show you strategies to ensure you get balance and fun back into your life.
 
-**[Get the Home You Really Want.](http://www.allthingshomebuying.com)&nbsp;**This one is all about buying and selling a home. This will cover programs that will help you buy and/or sell.&nbsp;
+**[Get the Home You Really Want.](http://www.allthingshomebuying.com){: target="_blank" rel="noopener"}&nbsp;**This one is all about buying and selling a home. This will cover programs that will help you buy and/or sell.&nbsp;
 
-[**Get the Most Money for Your Home Sale: Prepare for the Home Inspection.**](http://www.preparefortheinspeciton.com) For this webinar, I’ll be partnering with a home inspector to prepare sellers for certain things before they ever list their house. A seller may get many offers immediately, but after the inspection, the buyer could back out because it yielded surprising results.&nbsp;
+[**Get the Most Money for Your Home Sale: Prepare for the Home Inspection.**](http://www.preparefortheinspeciton.com){: target="_blank" rel="noopener"} For this webinar, I’ll be partnering with a home inspector to prepare sellers for certain things before they ever list their house. A seller may get many offers immediately, but after the inspection, the buyer could back out because it yielded surprising results.&nbsp;
 
-**[10 Things San Antonio Area Landlords Need to Know in 2021.](http://www.sanantoniolandlordwebinar.com)&nbsp;**This webinar is great for landlords and those who want to become landlords. Jason and Pete from the Bridgeman Properties Group will join me to discuss evictions, COVID-19 restrictions, the sales market, the rental market, and more.
+**[10 Things San Antonio Area Landlords Need to Know in 2021.](http://www.sanantoniolandlordwebinar.com){: target="_blank" rel="noopener"}&nbsp;**This webinar is great for landlords and those who want to become landlords. Jason and Pete from the Bridgeman Properties Group will join me to discuss evictions, COVID-19 restrictions, the sales market, the rental market, and more.
 
 You can attend these webinars or watch the video replays later if you miss them. These live webinars are completely free, and we’ll have question and answer sessions at the end.
 
