@@ -27,7 +27,7 @@ Simply follow the links below to register for the webinars that appeal to you. H
 
 **[Get the Home You Really Want.](http://www.allthingshomebuying.com){: target="_blank" rel="noopener"}&nbsp;**This one is all about buying and selling a home. This will cover programs that will help you buy and/or sell.&nbsp;
 
-[**Get the Most Money for Your Home Sale: Prepare for the Home Inspection.**](http://www.preparefortheinspeciton.com){: target="_blank" rel="noopener"} For this webinar, I’ll be partnering with a home inspector to prepare sellers for certain things before they ever list their house. A seller may get many offers immediately, but after the inspection, the buyer could back out because it yielded surprising results.&nbsp;
+[**Get the Most Money for Your Home Sale: Prepare for the Home Inspection.**](http://www.preparefortheinspection.com/){: target="_blank" rel="noopener"} For this webinar, I’ll be partnering with a home inspector to prepare sellers for certain things before they ever list their house. A seller may get many offers immediately, but after the inspection, the buyer could back out because it yielded surprising results.&nbsp;
 
 **[10 Things San Antonio Area Landlords Need to Know in 2021.](http://www.sanantoniolandlordwebinar.com){: target="_blank" rel="noopener"}&nbsp;**This webinar is great for landlords and those who want to become landlords. Jason and Pete from the Bridgeman Properties Group will join me to discuss evictions, COVID-19 restrictions, the sales market, the rental market, and more.
 
