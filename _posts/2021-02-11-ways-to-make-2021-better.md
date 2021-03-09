@@ -25,7 +25,7 @@ Simply follow the links below to register for the webinars that appeal to you. H
 
 [**Balance and Fun in 2021.**](http://balanceandfun.com){: target="_blank" rel="noopener"} We feel balance and fun are getting left by the wayside during the pandemic, so having it in our lives right now means you need to be intentional about it. We’ll be using the book “The 12-Week Year” and a planning tool to show you strategies to ensure you get balance and fun back into your life.
 
-**[Get the Home You Really Want.](http://www.allthingshomebuying.com){: target="_blank" rel="noopener"}&nbsp;**This one is all about buying and selling a home. This will cover programs that will help you buy and/or sell.&nbsp;
+**[Get the Home You Really Want.](http://www.allthingshomeselling.com/){: target="_blank" rel="noopener"}&nbsp;**This one is all about buying and selling a home. This will cover programs that will help you buy and/or sell.&nbsp;
 
 [**Get the Most Money for Your Home Sale: Prepare for the Home Inspection.**](http://www.preparefortheinspection.com/){: target="_blank" rel="noopener"} For this webinar, I’ll be partnering with a home inspector to prepare sellers for certain things before they ever list their house. A seller may get many offers immediately, but after the inspection, the buyer could back out because it yielded surprising results.&nbsp;
 
