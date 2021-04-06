@@ -14,7 +14,7 @@ youtube_code: 6-PojiM2S3w
 ---
 {% include youtube.html %}
 
-Whether you’re buying or selling a home, here’s how we can help.
+<center><em>Whether you’re buying or selling a home, here’s how we can help.</em></center>
 
 We at the Naiser Real Estate Group have so many ways to help people, whether they’re buying, selling, or doing neither. Today I’ll outline just a few of the ways we can assist you:
 
