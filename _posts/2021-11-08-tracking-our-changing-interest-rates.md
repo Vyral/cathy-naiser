@@ -17,6 +17,8 @@ youtube_code: lwJMfP4r474
 ---
 {% include youtube.html %}
 
+{% excerpt %}
+
 Today I’m joined by guest speaker Holden Hamilton, one of my favorite loan officers from Gold Financial, who is here to tell us what has happened over the last couple of years in terms of interest rates.
 
 Back in May of 2020, though everyone started to feel the repercussions of COVID in terms of jobs, those of us in real estate were very blessed to be in the housing industry during that rough time. The Fed started purchasing mortgage-backed securities and bonds at nearly $120 million a month. In September of this year, they reversed their roll and began to taper bonds selling off everything they’ve purchased to balance their sheet. **That had the effect of hiking up interest rates, along with inflation, unemployment, and other miscellaneous factors.**
