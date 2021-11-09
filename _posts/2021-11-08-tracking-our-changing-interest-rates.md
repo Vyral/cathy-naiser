@@ -7,8 +7,8 @@ tags:
 excerpt: Interest rates are rising.
 enclosure:
 pullquote: >-
-    If you’re even thinking about buying or selling a home this year, you could
-    be impacted by rising interest rates.
+    If you’re buying or selling a home this year, you could be impacted by
+    rising interest rates.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,11 +17,11 @@ youtube_code: lwJMfP4r474
 ---
 {% include youtube.html %}
 
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Interest rates are rising.*
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Here's what our changing interest rates mean for buyers and sellers.*
 
 Today I’m joined by guest speaker Holden Hamilton, one of my favorite loan officers from Gold Financial, who is here to tell us what has happened over the last couple of years in terms of interest rates.
 
-Back in May of 2020, though everyone started to feel the repercussions of COVID in terms of jobs, those of us in real estate were very blessed to be in the housing industry during that rough time. The Fed started purchasing mortgage-backed securities and bonds at nearly $120 million a month. In September of this year, they reversed their roll and began to taper bonds selling off everything they’ve purchased to balance their sheet. **That had the effect of hiking up interest rates, along with inflation, unemployment, and other miscellaneous factors.**
+Back in May of 2020, though everyone started to feel the repercussions of COVID in terms of jobs, those of us in real estate were very blessed to be in the housing industry during that rough time. The Federal Reserve started purchasing mortgage-backed securities and bonds at nearly $120 million a month. In September of this year, they reversed their roll and began to taper bonds selling off everything they’ve purchased to balance their sheet. **That had the effect of hiking up interest rates, along with inflation, unemployment, and other miscellaneous factors.**
 
 For reference, here are some key statistics to note: One year ago your interest rate on a $300,000 home would have been 2.75%, which would put you at $1,163 a month in principle and interest. A month ago, the rate was 3.125%, which would have put you at a $1,220 monthly payment. Today the rate is 3.375%, which is a $1,259 monthly payment. That’s a $96 difference\!
 
