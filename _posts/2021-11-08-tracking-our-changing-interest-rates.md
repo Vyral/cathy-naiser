@@ -35,4 +35,4 @@ So what does this all mean? It means that now is not the time to wait; you don�
 
 If you think that it’s best to wait until the spring or summer of next year to buy, understand that **interest rates may be even higher then.** Though it may be a little bit of a challenge to sell during the holidays, many buyers still purchase homes during this time because it’s very nostalgic to buy a home for Christmas.
 
-Ultimately, if you’re even thinking about buying or selling a home this year, you could be impacted by rising interest rates. Give us a call or send an email today. Let’s talk through the benefits of acting now as opposed to waiting.<br>&nbsp;
+Ultimately, if you're buying or selling a home this year, you could be impacted by rising interest rates. Give us a call or send an email today. Let’s talk through the benefits of acting now as opposed to waiting.<br>&nbsp;
