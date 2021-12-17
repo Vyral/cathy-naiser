@@ -23,7 +23,7 @@ youtube_code: Dl3PXm08KF4
 
 **I wish you time to relax.** These last couple of years have been hard, so relax and heal from the losses, drama, and pain.
 
-**I wish you time for fun.** We haven’t had near enough of it, so really embrace having fun during the holidays.
+**I wish you time for fun.** We haven’t had nearly enough of it, so really embrace having fun during the holidays.
 
 {% include pullquote.html %}
 
