@@ -6,9 +6,9 @@ tags:
   - Real Estate
   - Announcement
   - Market Update
-excerpt:
+excerpt: We’ve combined forces with TCG to better serve all of San Antonio.
 enclosure:
-pullquote: We’ve combined forces with TCG to better serve all of San Antonio.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
