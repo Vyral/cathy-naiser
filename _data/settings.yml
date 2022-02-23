@@ -60,12 +60,12 @@ client:
   brokerage:
   market: San Antonio
   address: 15510 Vance Jackson Rd<br> San Antonio, TX 78249
-  phone: 210-844-6434
+  phone: 210-934-4488
   phone_type:
   phone2:
   phone2_type:
-  email: cathy@mysanantoniomove.com
-  url: http://MySanAntonioMove.com
+  email: cathy@castillo-group.com
+  url: www.cathy.mysanantoniohomeguide.com
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
