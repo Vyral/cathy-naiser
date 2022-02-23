@@ -12,14 +12,14 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/cathy-naiser---feb-2022---1---youtube.jpg
+youtube_alternate_image: /uploads/cathy-naiser---feb-2022---1---youtube-edit.jpg
 youtube_code: ZhH48gg3wto
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-I’m very excited to make a huge announcement. After serving the San Antonio real estate community for the last 16 years, I’ve decided to take my business to a new level. The Cathy Naiser Group has partnered with one of the top teams in San Antonio and the entire United States, The Castillo Group, to provide more resources for our clients and the educator community. I’m excited to tell you more about this partnership in the coming days.&nbsp;
+I’m very excited to make a huge announcement. After serving the San Antonio real estate community for the last 16 years, I’ve decided to take my business to a new level. The Cathy Naiser Group has partnered with one of the top teams in San Antonio and the entire United States, The Castillo Group, to provide more resources for our clients and the educator community. I’m excited to tell you more about this partnership in the coming days.
 
 **We’re going to give every transaction an efficient and successful landing as we combine forces to offer the best possible experience for our buyers and sellers.** We can’t wait to help each other grow and become one big family.
 
