@@ -7,7 +7,8 @@ tags:
   - Announcement
   - Market Update
 excerpt: We’ve combined forces with TCG to better serve all of San Antonio.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Cathy+Naiser/2022/The+Naiser+Group+Is+Now+Powered+by+TCG.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
