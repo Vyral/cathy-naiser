@@ -20,6 +20,6 @@ It’s almost spring break, and today’s message is for all the fantastic educa
 
 We’re giving away $2,000 in prizes, and we couldn’t be more excited. The first big gift is a $500 Southwest gift card. Then we’ll give out 20 $25 gift cards and 10 $100 gift cards to Amazon.
 
-To sign up, just go to [educatorgiveaway.com](http://educatorgiveaway.com){: target="_blank" rel="noopener"} and fill in your info by March 9. After that, We’ll draw the winners and reach out to give you your prizes.
+To sign up, just go to <u><a target="_blank" rel="noopener" href="http://educatorgiveaway.com">educatorgiveaway.com</a> </u>and fill in your info by March 9. After that, We’ll draw the winners and reach out to give you your prizes.
 
 If you have any questions about the giveaway or real estate in general, don't hesitate to reach out via phone or email. We hope you have a great spring break\! You deserve it\!
