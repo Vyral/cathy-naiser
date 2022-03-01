@@ -4,7 +4,8 @@ title: Enter Our Giveaway for Teachers Today
 date: 2022-03-01 16:01:18
 tags:
 excerpt: Here’s all the information for our upcoming educator giveaway.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Cathy+Naiser/2022/Enter+Our+Giveaway+for+Teachers+Today.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
