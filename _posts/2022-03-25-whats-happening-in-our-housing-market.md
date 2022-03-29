@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The latest from our real estate market
+title: The Latest From Our Real Estate Market
 date: 2022-03-25 12:11:15
 tags:
   - Real Estate
