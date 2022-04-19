@@ -8,7 +8,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Why you may want to put your tax refund towards real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Cathy+Naiser/2022/Consider+Using+Your+Refund+To+Invest+in+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
