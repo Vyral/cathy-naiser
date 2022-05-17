@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/cathy-naiser-screenshot-template-yt.jpeg
-youtube_code: cxwlWwFzZiU
+youtube_code: QQoobH-XDIA
 ---
 {% include youtube.html %}
 
