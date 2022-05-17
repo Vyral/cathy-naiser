@@ -10,8 +10,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/cathy-naiser-screenshot-template-yt.jpeg
-youtube_code: QQoobH-XDIA
+youtube_alternate_image: /uploads/cathy-naiser-ss-yt1.jpeg
+youtube_code: uBsjTTdlCmQ
 ---
 {% include youtube.html %}
 
