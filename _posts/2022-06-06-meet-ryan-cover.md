@@ -4,7 +4,7 @@ title: WHO IS RYAN?
 date: 2022-06-06 18:01:23
 tags:
   - Real Estate
-excerpt: I’m delighted to introduce you to Ryan Cover, an important part of our team.
+excerpt: I’m pleased to introduce you to Ryan Cover, a valued member of our team.
 enclosure:
 pullquote: He’s here to make the experience as seamless as possible.
 enclosure_type: video/mp4
