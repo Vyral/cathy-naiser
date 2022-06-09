@@ -5,7 +5,7 @@ date: 2022-06-06 18:01:23
 tags:
   - Real Estate
 excerpt: I’m pleased to introduce you to Ryan Cover, a valued member of our team.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Cathy+Naiser/2022/WHO+IS+RYAN_.mp4
 pullquote: He’s here to make the experience as seamless as possible.
 enclosure_type: video/mp4
 enclosure_time:
