@@ -68,7 +68,7 @@ client:
   url: www.cathy.mysanantoniohomeguide.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://naiser-home-value.paperform.co/
   second_CTA_text: Home Search
   second_CTA_URL: https://cnaiser.kw.com/search
 sidebar_CTA:
@@ -78,7 +78,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: /homevalue/
+    CTA_url: https://naiser-home-value.paperform.co/
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: Looking for a San Antonio Home?
